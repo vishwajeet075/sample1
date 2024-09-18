@@ -1,0 +1,1 @@
+This is project whose main work is to practce basic git commands.
